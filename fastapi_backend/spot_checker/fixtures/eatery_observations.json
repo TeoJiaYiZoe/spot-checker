@@ -1,0 +1,304 @@
+{
+    "ABC810": [
+        {
+            "date": "2022-08-01",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "The hygiene standards were excellent, no visible pests.",
+            "offenses": [
+                "Personal hygiene of individuals"
+            ],
+            "photo_evidence": "link_to_photo.jpg"
+        },
+        {
+            "date": "2024-10-13",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "TEST",
+            "offenses": [
+                "Mishandling of food"
+            ],
+            "photo_evidence": "TEST"
+        },
+        {
+            "date": "2025-01-19",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "test",
+            "offenses": [
+                "[]"
+            ],
+            "photo_evidence": "ABC810_20250119182918.png"
+        }
+    ],
+    "DEF931": [
+        {
+            "date": "2022-07-01",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Owner not wearing gloves during food preparation.",
+            "offenses": [
+                "Personal hygiene of individuals"
+            ],
+            "photo_evidence": "link_to_photo3.jpg"
+        }
+    ],
+    "GHI189": [
+        {
+            "date": "2022-06-11",
+            "eid": "E0003",
+            "spotchecker_name": "Seow Lang Keng",
+            "observation": "Surfaces were clean, but food storage was not up to standards.",
+            "offenses": [
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo4.jpg"
+        }
+    ],
+    "JKL785": [
+        {
+            "date": "2022-05-11",
+            "eid": "E0004",
+            "spotchecker_name": "Kee Seow Gia",
+            "observation": "Food handling was satisfactory, but the environment needed better ventilation.",
+            "offenses": [
+                "Improper ventilation"
+            ],
+            "photo_evidence": "link_to_photo5.jpg"
+        }
+    ],
+    "MNO445": [
+        {
+            "date": "2022-04-21",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "Food handling was satisfactory, but the environment needed better ventilation.",
+            "offenses": [
+                "Improper ventilation"
+            ],
+            "photo_evidence": "link_to_photo5.jpg"
+        }
+    ],
+    "PQR903": [
+        {
+            "date": "2022-03-21",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Rodent droppings were found near the storage area.",
+            "offenses": [
+                "Pests"
+            ],
+            "photo_evidence": "link_to_photo6.jpg"
+        }
+    ],
+    "STU176": [
+        {
+            "date": "2022-08-02",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "Personal hygiene of the staff was commendable, food handling was done with gloves.",
+            "offenses": [],
+            "photo_evidence": "link_to_photo7.jpg"
+        }
+    ],
+    "VWX181": [
+        {
+            "date": "2022-07-02",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Poor food storage practices were noted, with food left uncovered in the preparation area.",
+            "offenses": [
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo8.jpg"
+        }
+    ],
+    "ABC252": [
+        {
+            "date": "2022-06-12",
+            "eid": "E0003",
+            "spotchecker_name": "Seow Lang Keng",
+            "observation": "Cleanliness was good, but some minor clutter was observed in the kitchen.",
+            "offenses": [
+                "Clutter"
+            ],
+            "photo_evidence": "link_to_photo9.jpg"
+        }
+    ],
+    "DEF969": [
+        {
+            "date": "2022-05-12",
+            "eid": "E0004",
+            "spotchecker_name": "Kee Seow Gia",
+            "observation": "Food preparation was satisfactory, but there was an issue with pest control in the pantry.",
+            "offenses": [
+                "Pests"
+            ],
+            "photo_evidence": "link_to_photo10.jpg"
+        }
+    ],
+    "GHI430": [
+        {
+            "date": "2022-04-22",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "The ventilation in the kitchen was poor, and food was not stored correctly.",
+            "offenses": [
+                "Improper ventilation",
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo11.jpg"
+        }
+    ],
+    "JKL334": [
+        {
+            "date": "2022-03-22",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Good personal hygiene was observed, but the kitchen was not kept clean.",
+            "offenses": [
+                "Clutter"
+            ],
+            "photo_evidence": "link_to_photo12.jpg"
+        }
+    ],
+    "MNO482": [
+        {
+            "date": "2022-08-03",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "No significant issues, though the kitchen could use a deep cleaning.",
+            "offenses": [
+                "Dirty kitchen"
+            ],
+            "photo_evidence": "link_to_photo13.jpg"
+        }
+    ],
+    "PQR311": [
+        {
+            "date": "2022-07-03",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Proper food storage, but clutter in the preparation area.",
+            "offenses": [
+                "Clutter"
+            ],
+            "photo_evidence": "link_to_photo14.jpg"
+        }
+    ],
+    "STU382": [
+        {
+            "date": "2022-06-13",
+            "eid": "E0003",
+            "spotchecker_name": "Seow Lang Keng",
+            "observation": "Cleanliness was good, but the food storage area needed improvements.",
+            "offenses": [
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo15.jpg"
+        }
+    ],
+    "VWX756": [
+        {
+            "date": "2022-05-13",
+            "eid": "E0004",
+            "spotchecker_name": "Kee Seow Gia",
+            "observation": "Ventilation in the kitchen was insufficient, leading to excessive heat.",
+            "offenses": [
+                "Improper ventilation"
+            ],
+            "photo_evidence": "link_to_photo16.jpg"
+        }
+    ],
+    "ABC557": [
+        {
+            "date": "2022-04-23",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "No major issues observed, overall hygiene standards were well-maintained.",
+            "offenses": [],
+            "photo_evidence": "link_to_photo17.jpg"
+        }
+    ],
+    "DEF581": [
+        {
+            "date": "2022-03-23",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Pest control measures were lacking, found droppings near the storage area.",
+            "offenses": [
+                "Pests"
+            ],
+            "photo_evidence": "link_to_photo18.jpg"
+        }
+    ],
+    "GHI831": [
+        {
+            "date": "2022-08-04",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "The food preparation area was clean, and hygiene standards were well-maintained.",
+            "offenses": [],
+            "photo_evidence": "link_to_photo19.jpg"
+        }
+    ],
+    "JKL107": [
+        {
+            "date": "2022-07-04",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Improper storage of ingredients, some food items were left uncovered.",
+            "offenses": [
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo20.jpg"
+        }
+    ],
+    "MNO269": [
+        {
+            "date": "2022-06-14",
+            "eid": "E0003",
+            "spotchecker_name": "Seow Lang Keng",
+            "observation": "The kitchen area was clean, but food handling practices could be improved.",
+            "offenses": [
+                "Mishandling of food"
+            ],
+            "photo_evidence": "link_to_photo21.jpg"
+        }
+    ],
+    "PQR961": [
+        {
+            "date": "2022-05-14",
+            "eid": "E0004",
+            "spotchecker_name": "Kee Seow Gia",
+            "observation": "No major issues, the kitchen was in good order.",
+            "offenses": [],
+            "photo_evidence": "link_to_photo22.jpg"
+        }
+    ],
+    "STU803": [
+        {
+            "date": "2022-04-24",
+            "eid": "E0001",
+            "spotchecker_name": "Lau Yuu Sheng",
+            "observation": "The ventilation was poor, and some food storage areas needed cleaning.",
+            "offenses": [
+                "Improper ventilation",
+                "Improper food storage"
+            ],
+            "photo_evidence": "link_to_photo23.jpg"
+        }
+    ],
+    "VWX779": [
+        {
+            "date": "2022-03-24",
+            "eid": "E0002",
+            "spotchecker_name": "Choo Beng Hoo",
+            "observation": "Hygiene was satisfactory, but ventilation could be improved.",
+            "offenses": [
+                "Improper ventilation"
+            ],
+            "photo_evidence": "link_to_photo24.jpg"
+        }
+    ]
+}

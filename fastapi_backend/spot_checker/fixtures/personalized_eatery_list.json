@@ -1,0 +1,226 @@
+{
+    "E0001": [
+        {
+            "license_no": "ABC810",
+            "eatery_name": "Nicely Food1",
+            "owner_name": "Mr Nicely1",
+            "owner_contact_no": "9712 1231",
+            "last_checked_date": "19-Jan-2025",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "DEF931",
+            "eatery_name": "Goodie Food1",
+            "owner_name": "Mr Goodie1",
+            "owner_contact_no": "9734 5671",
+            "last_checked_date": "01-Jul-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        },
+        {
+            "license_no": "GHI189",
+            "eatery_name": "Decent Food1",
+            "owner_name": "Mr Decent1",
+            "owner_contact_no": "9756 0121",
+            "last_checked_date": "11-Jun-2022",
+            "last_check_by_eid": "E0003",
+            "last_check_by_name": "Seow Lang Keng"
+        },
+        {
+            "license_no": "JKL785",
+            "eatery_name": "Lovely Food1",
+            "owner_name": "Ms Lovely1",
+            "owner_contact_no": "9778 4561",
+            "last_checked_date": "11-May-2022",
+            "last_check_by_eid": "E0004",
+            "last_check_by_name": "Kee Seow Gia"
+        },
+        {
+            "license_no": "MNO445",
+            "eatery_name": "Joyous Food1",
+            "owner_name": "Ms Joyous1",
+            "owner_contact_no": "9790 8901",
+            "last_checked_date": "21-Apr-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "PQR903",
+            "eatery_name": "Hangry Food1",
+            "owner_name": "Mr Hangry1",
+            "owner_contact_no": "9712 2341",
+            "last_checked_date": "21-Mar-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        }
+    ],
+    "E0002": [
+        {
+            "license_no": "STU176",
+            "eatery_name": "Nicely Food2",
+            "owner_name": "Mr Nicely2",
+            "owner_contact_no": "9712 1232",
+            "last_checked_date": "02-Aug-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "VWX181",
+            "eatery_name": "Goodie Food2",
+            "owner_name": "Mr Goodie2",
+            "owner_contact_no": "9734 5672",
+            "last_checked_date": "02-Jul-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        },
+        {
+            "license_no": "ABC252",
+            "eatery_name": "Decent Food2",
+            "owner_name": "Mr Decent2",
+            "owner_contact_no": "9756 0122",
+            "last_checked_date": "12-Jun-2022",
+            "last_check_by_eid": "E0003",
+            "last_check_by_name": "Seow Lang Keng"
+        },
+        {
+            "license_no": "DEF969",
+            "eatery_name": "Lovely Food2",
+            "owner_name": "Ms Lovely2",
+            "owner_contact_no": "9778 4562",
+            "last_checked_date": "12-May-2022",
+            "last_check_by_eid": "E0004",
+            "last_check_by_name": "Kee Seow Gia"
+        },
+        {
+            "license_no": "GHI430",
+            "eatery_name": "Joyous Food2",
+            "owner_name": "Ms Joyous2",
+            "owner_contact_no": "9790 8902",
+            "last_checked_date": "22-Apr-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "JKL334",
+            "eatery_name": "Hangry Food2",
+            "owner_name": "Mr Hangry2",
+            "owner_contact_no": "9712 2342",
+            "last_checked_date": "22-Mar-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        }
+    ],
+    "E0003": [
+        {
+            "license_no": "MNO482",
+            "eatery_name": "Nicely Food3",
+            "owner_name": "Mr Nicely3",
+            "owner_contact_no": "9712 1233",
+            "last_checked_date": "03-Aug-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "PQR311",
+            "eatery_name": "Goodie Food3",
+            "owner_name": "Mr Goodie3",
+            "owner_contact_no": "9734 5673",
+            "last_checked_date": "03-Jul-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        },
+        {
+            "license_no": "STU382",
+            "eatery_name": "Decent Food3",
+            "owner_name": "Mr Decent3",
+            "owner_contact_no": "9756 0123",
+            "last_checked_date": "13-Jun-2022",
+            "last_check_by_eid": "E0003",
+            "last_check_by_name": "Seow Lang Keng"
+        },
+        {
+            "license_no": "VWX756",
+            "eatery_name": "Lovely Food3",
+            "owner_name": "Ms Lovely3",
+            "owner_contact_no": "9778 4563",
+            "last_checked_date": "13-May-2022",
+            "last_check_by_eid": "E0004",
+            "last_check_by_name": "Kee Seow Gia"
+        },
+        {
+            "license_no": "ABC557",
+            "eatery_name": "Joyous Food3",
+            "owner_name": "Ms Joyous3",
+            "owner_contact_no": "9790 8903",
+            "last_checked_date": "23-Apr-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "DEF581",
+            "eatery_name": "Hangry Food3",
+            "owner_name": "Mr Hangry3",
+            "owner_contact_no": "9712 2343",
+            "last_checked_date": "23-Mar-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        }
+    ],
+    "E0004": [
+        {
+            "license_no": "GHI831",
+            "eatery_name": "Nicely Food4",
+            "owner_name": "Mr Nicely4",
+            "owner_contact_no": "9712 1234",
+            "last_checked_date": "04-Aug-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "JKL107",
+            "eatery_name": "Goodie Food4",
+            "owner_name": "Mr Goodie4",
+            "owner_contact_no": "9734 5674",
+            "last_checked_date": "04-Jul-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        },
+        {
+            "license_no": "MNO269",
+            "eatery_name": "Decent Food4",
+            "owner_name": "Mr Decent4",
+            "owner_contact_no": "9756 0124",
+            "last_checked_date": "14-Jun-2022",
+            "last_check_by_eid": "E0003",
+            "last_check_by_name": "Seow Lang Keng"
+        },
+        {
+            "license_no": "PQR961",
+            "eatery_name": "Lovely Food4",
+            "owner_name": "Ms Lovely4",
+            "owner_contact_no": "9778 4564",
+            "last_checked_date": "14-May-2022",
+            "last_check_by_eid": "E0004",
+            "last_check_by_name": "Kee Seow Gia"
+        },
+        {
+            "license_no": "STU803",
+            "eatery_name": "Joyous Food4",
+            "owner_name": "Ms Joyous4",
+            "owner_contact_no": "9790 8904",
+            "last_checked_date": "24-Apr-2022",
+            "last_check_by_eid": "E0001",
+            "last_check_by_name": "Lau Yuu Sheng"
+        },
+        {
+            "license_no": "VWX779",
+            "eatery_name": "Hangry Food4",
+            "owner_name": "Mr Hangry4",
+            "owner_contact_no": "9712 2344",
+            "last_checked_date": "24-Mar-2022",
+            "last_check_by_eid": "E0002",
+            "last_check_by_name": "Choo Beng Hoo"
+        }
+    ]
+}
